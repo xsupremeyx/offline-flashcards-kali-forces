@@ -7,10 +7,10 @@
 This repository contains the executable file for the Flashcards program.
 
 ### How to Download and Run
-
+7
 #### Installing Prerequisites
 
-To compile the code, you need to have both `g++` and Git Bash installed on your system. Follow these steps:
+To compile the code, you need to have both `g++` and `Git Bash` installed on your system. Follow these steps:
 
 #### Installing g++
 
@@ -38,20 +38,12 @@ Once both `g++` and Git Bash are installed, you can proceed with the compilation
    git clone https://github.com/xsupremeyx/offline-flashcards-kali-forces.git
 5. This should clone the repository.
 
-6. Now run the `install.bat` file inside the `hack_the_hills` folder.
-
-7. This should successfully create the `program.exe` file inside the `hack_the_hills` folder. Run this executable file to use our program.
+6. Run the `flashcard.exe` file inside the `flashapp` folder. Run this executable file to use our program.
 
 ### Method 2: Download the ZIP File
 
 1. Download the ZIP directly.
 
-2. Inside the `hack_the_hills` folder, run the batch file `install.bat`. This should install the executable file properly.
+2. Use the `flashcard.exe` inside the `flashapp` folder on your Windows machine to use the program.
 
-3. Use the `program.exe` inside the `hack_the_hills` folder on your Windows machine to use the program.
 
-### Compiling the Source Code
-
-If you prefer to compile the source code yourself, use the following command:
-```bash
-g++ FlashCards.cpp -o program.exe
