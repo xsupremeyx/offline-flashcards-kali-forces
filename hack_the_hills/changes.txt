@@ -1,4 +1,4 @@
-problem: 	Make GIT Repo -> Must
+problem: 	Make GIT Repo -> Must (Solved)
 
 
 problem: 	
@@ -27,10 +27,12 @@ problem: 	What is the limit of (1 + 1/n)∩┐╜ as n approaches infinity?-> fi
 problem: 	Hint: fix for lower case -> line 197 changed to -> (         if (toLower(userAnswer) == toLower(flashcards[i].answer)) {    ) (SOLVED)
       		fix for the line spacing -> line changed 198 (           cout <<'\t'<<"Hint    :\t"<<flashcards[i].hint;		) (SOLVED)
 
-problem: 	Add Custom Comments around the program
+problem: 	Add Custom Comments around the program (solved)
 
 problem:	Limited the included libraries (SOLVED)
 
-problem:	Calling loadflashcards() before starting program which was not looking good so called function below menu before choice.
+problem:	Calling loadflashcards() before starting program which was not looking good so called function below menu before choice. (solved)
 
-problem:	Exiting system immediately when chosen so added delay.
+problem:	Exiting system immediately when chosen so added delay. (solved)
+
+problem:	added installer batch file along with changes to README.md file for updated instructions in a seperate branch.
