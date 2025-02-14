@@ -8,7 +8,7 @@ This repository contains the executable file for the Flashcards program.
 
 ## How to Download and Run
 
-1. Download the `program.exe` file from the [releases section](https://github.com/username/repository/releases).
+1. Download the `program.exe` and `flashcards.txt` file from the [releases section](https://github.com/username/repository/releases).
 2. Run the executable on your Windows machine.
 
 ## Compiling the Source Code
