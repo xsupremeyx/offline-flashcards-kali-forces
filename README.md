@@ -6,7 +6,7 @@ Offline Flash Cards System Created by Kali Forces
 
 This repository contains the executable file for the Flashcards program.
 
-## How to Download and Run
+## How to Download and Run ##
 
 # Installing Prerequisites
 
