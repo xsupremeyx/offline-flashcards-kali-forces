@@ -1,3 +1,0 @@
-Computer Science|Mayank is|Sirname|Gulshan|2
-Computer Science|Apple|A Day keep ___ away|Doctor|0
-Computer Science|Apple |A Day keep ___ away|Doctor|0
