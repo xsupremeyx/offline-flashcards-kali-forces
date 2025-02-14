@@ -1,0 +1,36 @@
+problem: 	Make GIT Repo -> Must
+
+
+problem: 	
+
+Address the quiz mode issue -> lines 173 to 178 changed to:     
+
+string question_count;
+    cout<<"\tEnter Number of Questions you want for the quiz (Enter -1 to ask for all possible questions):\t";
+    getline(cin,question_count);
+    cout<<endl;
+    if (question_count == "-1") question_count = to_string(flashcardCount);
+    int selectedCount = stoi(question_count);
+
+also changed from
+	int selectedCount = flashcardCount; -> line 165
+	to 
+	int selectedCount = stoi(question_count); -> line 178
+
+(SOLVED)
+
+
+problem: 	Try for a GUI -> Optional
+
+problem: 	What is the limit of (1 + 1/n)∩┐╜ as n approaches infinity?-> fix this
+
+problem: 	Hint: fix for lower case -> line 197 changed to -> (         if (toLower(userAnswer) == toLower(flashcards[i].answer)) {    ) (SOLVED)
+      		fix for the line spacing -> line changed 198 (           cout <<'\t'<<"Hint    :\t"<<flashcards[i].hint;		) (SOLVED)
+
+problem: 	Add Custom Comments around the program
+
+problem:	Limited the included libraries (SOLVED)
+
+problem:	Calling loadflashcards() before starting program which was not looking good so called function below menu before choice.
+
+problem:	Exiting system immediately when chosen so added delay.
