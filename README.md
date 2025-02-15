@@ -4,7 +4,7 @@
 
 ## Flashcards
 
-This repository contains the executable file for the Flashcards program.
+This repository contains the installer and Source code files for the Flashcards program.
 
 ### How to Download and Run
 #### Installing Prerequisites
@@ -37,12 +37,14 @@ Once both `g++` and Git Bash are installed, you can proceed with the compilation
    git clone https://github.com/xsupremeyx/offline-flashcards-kali-forces.git
 5. This should clone the repository.
 
-6. Run the `FlashCard.exe` installer inside the `flashapp` folder. Run this installer file to use our program.
+6. Run the `FlashCard.exe` installer inside the `flashappinstaller` folder. Run this installer file to use our program.
 
 ### Method 2: Download the ZIP File
 
 1. Download the ZIP directly.
 
-2. Use the `flashcard.exe` to install the program from inside the `flashapp` folder on your Windows machine to use the program.
+2. Use the `flashcard.exe` to install the program from inside the `flashappinstaller` folder on your Windows machine to use the program.
 
+### Source Code:
 
+The `source-code` folder contains all the actual written source code for the program built by us. 
