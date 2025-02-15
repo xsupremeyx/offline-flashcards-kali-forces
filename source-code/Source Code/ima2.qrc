@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img2">
+        <file>FlashCard Generator.jpg</file>
+    </qresource>
+</RCC>
